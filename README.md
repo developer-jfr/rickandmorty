@@ -1,16 +1,5 @@
-# Stack
-#### react
-#### redux 
-#### axios
-#### formik
-#### classnames
-#### redux-thunk
-#### typescript
+Here I maked a test work
 
-## JEST test on pagination
-## Use Typescript
-## Deployed on firebase url:https://rickandmorty-21559.web.app
-## Responsive for mobile devise
-
-# Start React App
-#### npm start or yarn start
+First of all you need to run:
+npm install - to install dependicies
+npm start - to run a website
